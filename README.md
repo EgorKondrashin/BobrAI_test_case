@@ -14,8 +14,8 @@
 1. Клонируйте репозиторий:
 
     ```bash
-    git clone git@github.com:EgorKondrashin/test_case_BobrAI.git
-    cd test_case_BobrAI
+    git clone https://github.com/EgorKondrashin/weather-bot.git
+    cd weather-bot
     ```
 
 2. Установите зависимости:
